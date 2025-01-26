@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dance.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="65" y="65" width="168" height="226" frameX="-5" frameY="0" frameWidth="173" frameHeight="231"/>
+	<SubTexture name="dance0001" x="65" y="65" width="168" height="226" frameX="-5" frameY="0" frameWidth="173" frameHeight="231"/>
+	<SubTexture name="dance0002" x="65" y="391" width="164" height="219" frameX="0" frameY="-1" frameWidth="173" frameHeight="231"/>
+	<SubTexture name="dance0003" x="65" y="391" width="164" height="219" frameX="0" frameY="-1" frameWidth="173" frameHeight="231"/>
+	<SubTexture name="dance0004" x="65" y="710" width="166" height="227" frameX="-1" frameY="-4" frameWidth="173" frameHeight="231"/>
+	<SubTexture name="dance0005" x="65" y="710" width="166" height="227" frameX="-1" frameY="-4" frameWidth="173" frameHeight="231"/>
+</TextureAtlas>

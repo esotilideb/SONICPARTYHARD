@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic0000" x="0" y="0" width="31" height="40"/>
+	<SubTexture name="sonic0001" x="0" y="0" width="31" height="40"/>
+	<SubTexture name="sonic0002" x="41" y="0" width="31" height="40"/>
+	<SubTexture name="sonic0003" x="41" y="0" width="31" height="40"/>
+	<SubTexture name="sonic0004" x="82" y="0" width="31" height="40"/>
+	<SubTexture name="sonic0005" x="82" y="0" width="31" height="40"/>
+</TextureAtlas>

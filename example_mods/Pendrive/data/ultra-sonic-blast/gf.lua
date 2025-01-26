@@ -1,0 +1,1 @@
+function onCreate()setObjectOrder('gfGroup', getObjectOrder('dadGroup')+1)end

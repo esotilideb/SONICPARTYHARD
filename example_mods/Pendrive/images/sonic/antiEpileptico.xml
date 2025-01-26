@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="end.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="end0000" x="56" y="56" width="459" height="359"/>
+	<SubTexture name="end0001" x="56" y="56" width="459" height="359"/>
+	<SubTexture name="end0002" x="56" y="486" width="459" height="359"/>
+	<SubTexture name="end0003" x="56" y="486" width="459" height="359"/>
+</TextureAtlas>

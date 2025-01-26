@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-430
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				238,
+				-288
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "end",
+			"indices": [],
+			"name": "end"
+		},
+		{
+			"offsets": [
+				289,
+				-298
+			],
+			"loop": false,
+			"fps": 31,
+			"anim": "sonic",
+			"indices": [],
+			"name": "sonic"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/void",
+	"position": [
+		-270,
+		-350
+	],
+	"healthicon": "sonicdancemirror",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		241,
+		241
+	],
+	"camera_position": [
+		-310,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 3.2,
+	"_editor_isPlayer": false
+}

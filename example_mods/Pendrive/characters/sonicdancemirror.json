@@ -1,0 +1,140 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-167,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-259
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				-155,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-125
+			],
+			"anim": "danceRight",
+			"fps": 18,
+			"name": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				-124
+			],
+			"anim": "danceLeft",
+			"fps": 18,
+			"name": "idle",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				-241,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-54,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-20
+			],
+			"anim": "spin",
+			"fps": 24,
+			"name": "spin",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sonicdancemirror",
+	"position": [
+		490,
+		-140
+	],
+	"healthicon": "sonicdancemirror",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		241,
+		241
+	],
+	"camera_position": [
+		-410,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 1.4,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Mirror Match",
+	"description": "Sonic",
+	"restart":false,
+	"color": [170, 0, 255]
+}

@@ -1,0 +1,6 @@
+Like all of those other Flash Events but cooler B)))
+
+Value 1: Color (Hexadecimal)
+Value 2: Duration
+
+Example: Value 1 = FFFFFF Value 2 = 0.5

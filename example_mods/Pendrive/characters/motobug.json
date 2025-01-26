@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				928,
+				-210
+			],
+			"anim": "e",
+			"fps": 20,
+			"name": "e",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-520,
+				-590
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "m",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/motobug",
+	"position": [
+		320,
+		260
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-470,
+		-470
+	],
+	"sing_duration": 4,
+	"scale": 2.7,
+	"_editor_isPlayer": false
+}

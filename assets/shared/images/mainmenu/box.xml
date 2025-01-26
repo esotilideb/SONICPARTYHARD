@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="box.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="box0000" x="63" y="63" width="107" height="104"/>
+	<SubTexture name="check0000" x="270" y="63" width="118" height="122"/>
+	<SubTexture name="cross0000" x="63" y="285" width="135" height="126"/>
+</TextureAtlas>

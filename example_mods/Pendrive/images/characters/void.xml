@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="void.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic0000" x="56" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0001" x="607" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0002" x="1158" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0003" x="1709" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0004" x="2260" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0005" x="2260" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0006" x="2811" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0007" x="3362" y="56" width="480" height="360"/>
+	<SubTexture name="sonic0008" x="56" y="487" width="480" height="360"/>
+	<SubTexture name="sonic0009" x="607" y="487" width="480" height="360"/>
+	<SubTexture name="sonic0010" x="1158" y="487" width="480" height="360"/>
+	<SubTexture name="sonic0011" x="1709" y="487" width="480" height="360"/>
+	<SubTexture name="sonic0012" x="2260" y="487" width="480" height="360"/>
+	<SubTexture name="sonic0013" x="2811" y="487" width="480" height="360"/>
+	<SubTexture name="sonic0014" x="3362" y="487" width="480" height="360"/>
+	<SubTexture name="sonic0015" x="56" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0016" x="56" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0017" x="607" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0018" x="1158" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0019" x="1709" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0020" x="2260" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0021" x="2811" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0022" x="3362" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0023" x="56" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0024" x="3362" y="918" width="480" height="360"/>
+	<SubTexture name="sonic0025" x="607" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0026" x="1158" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0027" x="1158" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0028" x="1709" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0029" x="2260" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0030" x="2811" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0031" x="3362" y="1349" width="480" height="360"/>
+	<SubTexture name="sonic0032" x="56" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0033" x="607" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0034" x="1158" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0035" x="1709" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0036" x="2260" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0037" x="2811" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0038" x="2811" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0039" x="3362" y="1780" width="480" height="360"/>
+	<SubTexture name="sonic0040" x="56" y="2211" width="480" height="360"/>
+</TextureAtlas>

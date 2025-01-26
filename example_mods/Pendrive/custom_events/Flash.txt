@@ -1,0 +1,6 @@
+Smoothly sets the Opponent's
+transparency value.
+
+Value 1: Duration
+Value 2: 0 is Black, 1 is White, 2 is Red, 3 is Green, 
+4 is Blue and 5 is Yellow and 6 is Cyan and 7 is Purple
